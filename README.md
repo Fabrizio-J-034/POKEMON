@@ -126,5 +126,5 @@ npm run dev
 ```
 ## Live Demo
 
-Check out the live demo: [Pokémon Explorer](https://capable-smakager-c37faf.netlify.app)
+Check out the live demo: [Fabrizio PFF Pokemon](https://capable-smakager-c37faf.netlify.app)
 
