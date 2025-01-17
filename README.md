@@ -124,4 +124,7 @@ npm install
 ```bash
 npm run dev
 ```
+## Live Demo
+
+Check out the live demo: [Pokémon Explorer](https://capable-smakager-c37faf.netlify.app)
 
